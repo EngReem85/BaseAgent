@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\agent",
+    "\\src\\observability",
+    "\\src\\tools",
+    "\\tests"
+  ],
+  "SelectedNode": "\\test_connection.py",
+  "PreviewInSolutionExplorer": false
+}

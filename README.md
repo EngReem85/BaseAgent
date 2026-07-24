@@ -488,4 +488,4 @@ The system is **ready for production use** and can be extended with additional t
 
 ---
 
- as part of the SDAIA Advanced AI & Machine Learning program. All code is open-source and available for educational and commercial use.
+ as part of the SDAIA ASDAIA Building Gen AI Apps program. All code is open-source and available for educational and commercial use.
